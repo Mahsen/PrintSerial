@@ -1,0 +1,53 @@
+D:\Ref\Project\Project C#\By Me\PrintSerial\v1\PrintSerial\PrintSerial\bin\Debug\PrintSerial.exe.config
+D:\Ref\Project\Project C#\By Me\PrintSerial\v1\PrintSerial\PrintSerial\bin\Debug\PrintSerial.exe
+D:\Ref\Project\Project C#\By Me\PrintSerial\v1\PrintSerial\PrintSerial\bin\Debug\PrintSerial.pdb
+D:\Ref\Project\Project C#\By Me\PrintSerial\v1\PrintSerial\PrintSerial\obj\Debug\PrintSerial.csprojResolveAssemblyReference.cache
+D:\Ref\Project\Project C#\By Me\PrintSerial\v1\PrintSerial\PrintSerial\obj\Debug\PrintSerial.Form1.resources
+D:\Ref\Project\Project C#\By Me\PrintSerial\v1\PrintSerial\PrintSerial\obj\Debug\PrintSerial.Properties.Resources.resources
+D:\Ref\Project\Project C#\By Me\PrintSerial\v1\PrintSerial\PrintSerial\obj\Debug\PrintSerial.csproj.GenerateResource.Cache
+D:\Ref\Project\Project C#\By Me\PrintSerial\v1\PrintSerial\PrintSerial\obj\Debug\PrintSerial.exe
+D:\Ref\Project\Project C#\By Me\PrintSerial\v1\PrintSerial\PrintSerial\obj\Debug\PrintSerial.pdb
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v1\PrintSerial\PrintSerial\bin\Debug\PrintSerial.exe.config
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v1\PrintSerial\PrintSerial\bin\Debug\PrintSerial.exe
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v1\PrintSerial\PrintSerial\bin\Debug\PrintSerial.pdb
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v1\PrintSerial\PrintSerial\obj\Debug\PrintSerial.csprojAssemblyReference.cache
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v1\PrintSerial\PrintSerial\obj\Debug\PrintSerial.Form1.resources
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v1\PrintSerial\PrintSerial\obj\Debug\PrintSerial.Properties.Resources.resources
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v1\PrintSerial\PrintSerial\obj\Debug\PrintSerial.csproj.GenerateResource.cache
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v1\PrintSerial\PrintSerial\obj\Debug\PrintSerial.csproj.CoreCompileInputs.cache
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v1\PrintSerial\PrintSerial\obj\Debug\PrintSerial.exe
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v1\PrintSerial\PrintSerial\obj\Debug\PrintSerial.pdb
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v2\PrintSerial\PrintSerial\bin\Debug\PrintSerial.exe.config
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v2\PrintSerial\PrintSerial\bin\Debug\PrintSerial.exe
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v2\PrintSerial\PrintSerial\bin\Debug\PrintSerial.pdb
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v2\PrintSerial\PrintSerial\obj\Debug\PrintSerial.csprojAssemblyReference.cache
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v2\PrintSerial\PrintSerial\obj\Debug\PrintSerial.Form1.resources
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v2\PrintSerial\PrintSerial\obj\Debug\PrintSerial.Properties.Resources.resources
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v2\PrintSerial\PrintSerial\obj\Debug\PrintSerial.csproj.GenerateResource.cache
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v2\PrintSerial\PrintSerial\obj\Debug\PrintSerial.csproj.CoreCompileInputs.cache
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v2\PrintSerial\PrintSerial\obj\Debug\PrintSerial.exe
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v2\PrintSerial\PrintSerial\obj\Debug\PrintSerial.pdb
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v3\PrintSerial\PrintSerial\bin\Debug\PrintSerial.exe.config
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v3\PrintSerial\PrintSerial\bin\Debug\PrintSerial.exe
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v3\PrintSerial\PrintSerial\bin\Debug\PrintSerial.pdb
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v3\PrintSerial\PrintSerial\obj\Debug\PrintSerial.csprojAssemblyReference.cache
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v3\PrintSerial\PrintSerial\obj\Debug\PrintSerial.Form1.resources
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v3\PrintSerial\PrintSerial\obj\Debug\PrintSerial.Properties.Resources.resources
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v3\PrintSerial\PrintSerial\obj\Debug\PrintSerial.csproj.GenerateResource.cache
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v3\PrintSerial\PrintSerial\obj\Debug\PrintSerial.csproj.CoreCompileInputs.cache
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v3\PrintSerial\PrintSerial\obj\Debug\PrintSerial.exe
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v3\PrintSerial\PrintSerial\obj\Debug\PrintSerial.pdb
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v3\PrintSerial\PrintSerial\bin\Debug\BarcodeLib.dll
+I:\Ref\Project\Project .Net\By Me\PrintSerial\v3\PrintSerial\PrintSerial\obj\Debug\PrintSerial.csproj.CopyComplete
+I:\Project\Old Structure\Project .Net\By Me\PrintSerial\v4.14020225\PrintSerial\PrintSerial\bin\Debug\PrintSerial.exe.config
+I:\Project\Old Structure\Project .Net\By Me\PrintSerial\v4.14020225\PrintSerial\PrintSerial\bin\Debug\PrintSerial.exe
+I:\Project\Old Structure\Project .Net\By Me\PrintSerial\v4.14020225\PrintSerial\PrintSerial\bin\Debug\PrintSerial.pdb
+I:\Project\Old Structure\Project .Net\By Me\PrintSerial\v4.14020225\PrintSerial\PrintSerial\bin\Debug\BarcodeLib.dll
+I:\Project\Old Structure\Project .Net\By Me\PrintSerial\v4.14020225\PrintSerial\PrintSerial\obj\Debug\PrintSerial.csprojAssemblyReference.cache
+I:\Project\Old Structure\Project .Net\By Me\PrintSerial\v4.14020225\PrintSerial\PrintSerial\obj\Debug\PrintSerial.Form1.resources
+I:\Project\Old Structure\Project .Net\By Me\PrintSerial\v4.14020225\PrintSerial\PrintSerial\obj\Debug\PrintSerial.Properties.Resources.resources
+I:\Project\Old Structure\Project .Net\By Me\PrintSerial\v4.14020225\PrintSerial\PrintSerial\obj\Debug\PrintSerial.csproj.GenerateResource.cache
+I:\Project\Old Structure\Project .Net\By Me\PrintSerial\v4.14020225\PrintSerial\PrintSerial\obj\Debug\PrintSerial.csproj.CoreCompileInputs.cache
+I:\Project\Old Structure\Project .Net\By Me\PrintSerial\v4.14020225\PrintSerial\PrintSerial\obj\Debug\PrintSerial.csproj.CopyComplete
+I:\Project\Old Structure\Project .Net\By Me\PrintSerial\v4.14020225\PrintSerial\PrintSerial\obj\Debug\PrintSerial.exe
+I:\Project\Old Structure\Project .Net\By Me\PrintSerial\v4.14020225\PrintSerial\PrintSerial\obj\Debug\PrintSerial.pdb
