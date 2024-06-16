@@ -51,3 +51,16 @@ I:\Project\Old Structure\Project .Net\By Me\PrintSerial\v4.14020225\PrintSerial\
 I:\Project\Old Structure\Project .Net\By Me\PrintSerial\v4.14020225\PrintSerial\PrintSerial\obj\Debug\PrintSerial.csproj.CopyComplete
 I:\Project\Old Structure\Project .Net\By Me\PrintSerial\v4.14020225\PrintSerial\PrintSerial\obj\Debug\PrintSerial.exe
 I:\Project\Old Structure\Project .Net\By Me\PrintSerial\v4.14020225\PrintSerial\PrintSerial\obj\Debug\PrintSerial.pdb
+H:\Project\New_Structure\PrintSerial\PrintSerial\bin\Debug\PrintSerial.exe.config
+H:\Project\New_Structure\PrintSerial\PrintSerial\bin\Debug\PrintSerial.exe
+H:\Project\New_Structure\PrintSerial\PrintSerial\bin\Debug\PrintSerial.pdb
+H:\Project\New_Structure\PrintSerial\PrintSerial\bin\Debug\BarcodeLib.dll
+H:\Project\New_Structure\PrintSerial\PrintSerial\obj\Debug\PrintSerial.csproj.AssemblyReference.cache
+H:\Project\New_Structure\PrintSerial\PrintSerial\obj\Debug\PrintSerial.csproj.SuggestedBindingRedirects.cache
+H:\Project\New_Structure\PrintSerial\PrintSerial\obj\Debug\PrintSerial.Form1.resources
+H:\Project\New_Structure\PrintSerial\PrintSerial\obj\Debug\PrintSerial.Properties.Resources.resources
+H:\Project\New_Structure\PrintSerial\PrintSerial\obj\Debug\PrintSerial.csproj.GenerateResource.cache
+H:\Project\New_Structure\PrintSerial\PrintSerial\obj\Debug\PrintSerial.csproj.CoreCompileInputs.cache
+H:\Project\New_Structure\PrintSerial\PrintSerial\obj\Debug\PrintSerial.csproj.CopyComplete
+H:\Project\New_Structure\PrintSerial\PrintSerial\obj\Debug\PrintSerial.exe
+H:\Project\New_Structure\PrintSerial\PrintSerial\obj\Debug\PrintSerial.pdb
