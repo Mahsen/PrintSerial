@@ -41,9 +41,9 @@ namespace PrintSerial
             
             try
             {
-                Serial = args[0];
-                Date = args[1];
-                Pass = args[2];
+                Serial = args[1];
+                Date = args[2];
+                Pass = args[3];
             }
             catch (Exception er)
             {
@@ -68,8 +68,8 @@ namespace PrintSerial
                 BarcodeLib.Barcode b = new BarcodeLib.Barcode();
                 Image img = b.Encode(BarcodeLib.TYPE.CODE128, Serial, Color.Black, Color.White, 90, 20);
 
-                memoryGraphics.DrawImage(img, 35, 4);
-                memoryGraphics.DrawString(Serial, new Font("Franklin Gothic Medium Cond", 12, FontStyle.Regular), Brushes.Black, 38, 21);
+                memoryGraphics.DrawImage(img, 30, 4);
+                memoryGraphics.DrawString(Serial, new Font("Franklin Gothic Medium Cond", 12, FontStyle.Regular), Brushes.Black, 34, 21);
                 memoryGraphics.DrawString(Date, new Font("Franklin Gothic Medium Cond", 12, FontStyle.Regular), Brushes.Black, 32, 41);
                 memoryGraphics.DrawString("Err " + Pass, new Font("Arial", 10, FontStyle.Regular), Brushes.Black, 2, 65);
             }
